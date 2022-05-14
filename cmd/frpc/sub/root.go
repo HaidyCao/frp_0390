@@ -25,11 +25,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/fatedier/frp/client"
-	"github.com/fatedier/frp/pkg/auth"
-	"github.com/fatedier/frp/pkg/config"
-	"github.com/fatedier/frp/pkg/util/log"
-	"github.com/fatedier/frp/pkg/util/version"
+	"github.com/HaidyCao/frp_0390/client"
+	"github.com/HaidyCao/frp_0390/pkg/auth"
+	"github.com/HaidyCao/frp_0390/pkg/config"
+	"github.com/HaidyCao/frp_0390/pkg/util/log"
+	"github.com/HaidyCao/frp_0390/pkg/util/version"
 	"github.com/fatedier/golib/crypto"
 
 	"github.com/spf13/cobra"
