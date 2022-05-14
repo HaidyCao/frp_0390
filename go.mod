@@ -1,4 +1,4 @@
-module github.com/HaidyCao/frp
+module github.com/HaidyCao/frp_0390
 
 go 1.16
 
