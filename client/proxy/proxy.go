@@ -33,12 +33,12 @@ import (
 	frpNet "github.com/HaidyCao/frp_0390/pkg/util/net"
 	"github.com/HaidyCao/frp_0390/pkg/util/xlog"
 
+	pp "github.com/HaidyCao/go-proxyproto"
 	"github.com/fatedier/golib/errors"
 	frpIo "github.com/fatedier/golib/io"
 	libdial "github.com/fatedier/golib/net/dial"
 	"github.com/fatedier/golib/pool"
 	fmux "github.com/hashicorp/yamux"
-	pp "github.com/pires/go-proxyproto"
 	"golang.org/x/time/rate"
 )
 
